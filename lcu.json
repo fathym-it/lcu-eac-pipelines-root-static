@@ -3,6 +3,7 @@
     "Name": "Build Pipeline for Root Static Sites",
     "Description": "An LCU for installing a build pipeline for root static sites.",
     "Image": "https://www.fathym.com/assets/images/logo.png",
-    "PreviewImage": "https://www.fathym.com/assets/images/logo.png"
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
+    "SkipProject": true
   }
 }
