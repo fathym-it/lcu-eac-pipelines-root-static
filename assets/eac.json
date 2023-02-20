@@ -15,7 +15,7 @@
         "github-artifacts-release-root-static": {
           "Name": "GitHub Artifacts - Release - Root Static",
           "Path": "lcu-github-artifacts-release.yml",
-          "ArtifactLookups": ["root-static-release"],
+          "ArtifactLookups": ["root-static-build-release"],
           "Templates": [
             "https://raw.githubusercontent.com/lowcodeunit/infrastructure/master/github/actions/artifacts/_header.hbs.yml",
             "https://raw.githubusercontent.com/lowcodeunit/infrastructure/master/github/actions/artifacts/release-flow.yml"
